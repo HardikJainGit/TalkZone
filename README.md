@@ -40,4 +40,4 @@ npm start
 
 ## Author
 
-- [**Hardik Jain**]
+- **Hardik Jain**
