@@ -41,3 +41,8 @@ npm start
 ## Author
 
 - **Hardik Jain**
+
+## Video Demo
+
+https://github.com/HardikJainGit/TalkZone/assets/133627261/fb49a54e-f4bf-425e-b683-01d46453e6ef
+
